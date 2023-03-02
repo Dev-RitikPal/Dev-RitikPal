@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ###  Technicals
 Property                 | Data  
 -------------------------|------
-Language / IDE           | [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)]() [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)]()
+Language / IDE           | [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)]() [![Sublime Badge](https://img.shields.io/badge/-Sublime-007396?style=flat&logo=JAVA&logoColor=white)]()
 Tool / Framework         | [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)]() [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)]() ![Amazon web services Badge](https://img.shields.io/badge/-AWS-yellow)  [ ![Express Badge](https://img.shields.io/badge/-Express-green)]()
 Domain Knowledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)]() [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)]() [![Internet Of Things](https://img.shields.io/badge/-IoT-blue)]()
 CI / CD                  |  [![GitLab Pipelines](https://img.shields.io/badge/-Gitlab%20Pipelines-2088FF?style=flat&logo=Gitlab-Pipelines&logoColor=white)]()
