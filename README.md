@@ -1,42 +1,54 @@
-### Hi there 👋
+## ***Ritik Pal***
 
-<!--
-**Dev-RitikPal/Dev-RitikPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hey 👋, I'm Ritik Pal and you've reached my code garden!
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer with 4+ years of experience, specializing in **JavaScript, TypeScript, React, Next.js, Node.js, microservices, Backstage developer portal**, and modern cloud-native development. I love building scalable UIs, integrating APIs, optimizing performance, and creating end-to-end solutions. Currently, I'm also working on my own **smart device product + OS** with mobile app integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Ritik Pal
-
-##### Hey 👋, I'm Ritik Pal and you've reached my code garden! 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-RitikPal&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-RitikPal&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-RitikPal&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-RitikPal&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-RitikPal&theme=moonlight&utcOffset=8)
-
- ---
-### Reach Me Out
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ritikpal@gmail.com)](mailto:dev.ritikpal@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=9399493350&text=Hi!)](https://api.whatsapp.com/send?phone=9399493350&text=Hi!) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/abhay-soni-dev/) [![](https://img.shields.io/badge/Call%20Me%20At-%2B91%209399493350-orange)]()
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-RitikPal&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-RitikPal&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-RitikPal&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-RitikPal&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-RitikPal&theme=aura_dark&utcOffset=8)
 
 ---
-###  Technicals
-Property                 | Data  
--------------------------|------
-Language / IDE           | [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)]() [![Sublime Badge](https://img.shields.io/badge/-Sublime-007396?style=flat&logo=JAVA&logoColor=white)]()
-Tool / Framework         | [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)]() [![GraphQL Badge](https://img.shields.io/badge/-Nodejs-00979D?style=flat&logo=Nodejs&logoColor=white)]() ![Amazon web services Badge](https://img.shields.io/badge/-AWS-yellow)  [ ![Express Badge](https://img.shields.io/badge/-Express-green)]()
-Domain Knowledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)]() [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)]()
-CI / CD                  |  [![GitLab Pipelines](https://img.shields.io/badge/-Gitlab%20Pipelines-2088FF?style=flat&logo=Gitlab-Pipelines&logoColor=white)]()
-Technologies <img width=200/> | [ ![Javascript Badge](https://img.shields.io/badge/-Javascript-yellow)]() [ ![Typescript Badge](https://img.shields.io/badge/-Typescript-blue)]() [ ![Java Badge](https://img.shields.io/badge/-Java-white)]()  [ ![Github Badge](https://img.shields.io/badge/-Github-grey)]()  [ ![Gitlab Badge](https://img.shields.io/badge/-Gitlab-9cf)]()  [ ![Node Badge](https://img.shields.io/badge/-Node-success)]()  [ ![SQL Badge](https://img.shields.io/badge/-Sql-9cf)]()  [ ![Mongodb Badge](https://img.shields.io/badge/-Mongodb-green)]()
+
+## 🚀 **Current Updates**
+- 🔥 Building my own **custom OS-based product (4GB storage)** with mobile app sync  
+- 🧠 Deep-diving into **AI, LLM training, and backend automation**  
+- 🎯 Preparing for **advanced full-stack interviews (Architecture, Performance, Security)**  
+- 📚 Completing a structured **30-day DSA roadmap**  
+
 ---
 
-![Metrics](https://metrics.lecoq.io/Abhay-soni-developer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FCalcutta)
+## 🤝 **Reach Me Out**
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ritikpal@gmail.com)](mailto:dev.ritikpal@gmail.com) 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=9399493350&text=Hi!)](https://api.whatsapp.com/send?phone=9399493350&text=Hi!) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/ritik-pal-dev/) 
+[![](https://img.shields.io/badge/Call%20Me%20At-%2B91%209399493350-orange)]()
+
+---
+
+## ⚙️ **Tech Stack & Tools**
+
+| Category | Technologies |
+|---------|--------------|
+| **Frontend** | ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js Badge](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![Node Badge](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat&logo=express) ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
+| **Database** | ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white) ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Cloud / DevOps** | ![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white) ![Lambda Badge](https://img.shields.io/badge/-AWS%20Lambda-FE7A16?style=flat&logo=aws-lambda&logoColor=white) ![GitLab Pipeline](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?style=flat&logo=gitlab) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat&logo=gitlab) |
+| **Other Expertise** | Microservices, Backstage Developer Portal, API Integrations, LLM training & integration, Serverless Framework |
+
+---
+
+## ⭐ **Perks**
+- ⚡ Strong UI/UX understanding  
+- 🧠 Quick problem solver & architecture thinker  
+- 🔍 Writes optimized, readable & scalable code  
+- 💡 Creative product builder mindset  
+- 📊 Loves exploring performance, debugging & system design  
+- 🔄 Experience with microservices & distributed systems  
+
+---
+
+Ritik Pal
